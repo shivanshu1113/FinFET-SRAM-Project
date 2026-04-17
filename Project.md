@@ -118,16 +118,6 @@ FinFET technology introduces a **3D gate structure** that provides:
 
 ---
 
-## 📂 Repository Structure
-
-```
-├── docs/          # Project report (DOCX/PDF)
-├── images/        # Simulation results & graphs
-├── results/       # Data tables and outputs
-├── README.md      # Project documentation
-```
-
----
 
 ## 🚧 Future Work
 
